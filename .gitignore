@@ -4,3 +4,5 @@
 *.tfstate*
 *tfplan*
 *tfvars
+*.pub
+key
